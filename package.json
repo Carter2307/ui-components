@@ -1,6 +1,6 @@
 {
 	"name": "@roger.b/ui",
-	"version": "1.0.0",
+	"version": "0.0.1",
 	"description": "Utils ui components lib",
 	"main": "src/index.ts",
 	"scripts": {
