@@ -1,24 +1,24 @@
 {
-  "name": "@roger.b/ui",
-  "version": "1.0.0",
-  "description": "Utils ui components lib",
-  "main": "src/index.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "roger bentcha",
-  "license": "ISC",
-  "dependencies": {
-    "@roger.b/functions": "workspace:*",
-    "@roger.b/types": "workspace:*"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Carter2307/ui-components.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Carter2307/ui-components/issues"
-  },
-  "homepage": "https://github.com/Carter2307/ui-components#readme"
+	"name": "@roger.b/ui",
+	"version": "1.0.0",
+	"description": "Utils ui components lib",
+	"main": "src/index.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "roger bentcha",
+	"license": "ISC",
+	"dependencies": {
+		"@roger.b/functions": "^0.0.1",
+		"@roger.b/types": "^1.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Carter2307/ui-components.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Carter2307/ui-components/issues"
+	},
+	"homepage": "https://github.com/Carter2307/ui-components#readme"
 }
